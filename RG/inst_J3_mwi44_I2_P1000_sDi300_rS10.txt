@@ -1,0 +1,8 @@
+Piece	Reference	Width	Length	Demand
+1	1	44	44	221
+2	1	152	259	79
+
+Fabric_roll	Reference	Width_j
+1	1	170
+2	1	210
+3	1	290
